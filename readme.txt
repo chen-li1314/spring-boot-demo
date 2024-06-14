@@ -8,4 +8,4 @@ mvn spring-boot:run
 编译java文件，生成java.class
 javac HelloWorld.java
 运行class文件，后缀可以不写
-java -cp . HelloWorld
+java -cp . HelloWorld 
